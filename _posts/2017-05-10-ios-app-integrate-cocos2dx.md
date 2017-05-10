@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iOS app integrate coocs2d-x
+title: iOS app integrate cocos2d-x
 ---
 
 Some developers inegrated cocos2d-x into an existing iOS app. This blog will describe hwo to do it roughly. This blog will not write how to do step by step, just some high level concepts.
